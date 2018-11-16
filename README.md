@@ -34,6 +34,8 @@ Every time you are presented with the choice between the two spheres, you should
 
 We will score each person on a critera based on a combination of the total number of stars (points) you collect as well as your movement accuracy. The top scorers will recieve cash prizes.
 
+You will be asked to complete a short survey once completed.
+
 ## Information
 
 This study has received ethical approval from the School of Psychology Ethics Board (271016/IM/216). By taking part you agree that data collected during the task will be used for research purposes.
