@@ -4,7 +4,7 @@ Hello,
 
 Thank you for confirming your booking slot for the experimental part of your second research practical for PSYC1036.
 
-To carry out the study, you will need to visit 1.32 (Computer Cluster, School of Psychology). Please arrive 5 minutes before your allotted time.
+To carry out the study, you will need to visit 1.45 (Computer Cluster, School of Psychology). Please arrive 5 minutes before your allotted time.
 
 The experiment will allow you to understand the design of the study you will be analysing data from for Practical Report 2, but note that taking part is OPTIONAL and will not compromise your learning i.e. we will provide detailed instructions on the study for you to write up even if you don’t take part.
 
