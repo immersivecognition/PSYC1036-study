@@ -2,7 +2,7 @@ Hello,
 
 Thank you for confirming your booking slot for the experimental part of your second research practical for PSYC1036.
 
-If you have yet to book your timeslot (22nd - 27th November) please visit http://vrstudy.setmore.com/
+If you have yet to book your timeslot (22nd - 27th November) please visit [http://vrstudy.setmore.com/](http://vrstudy.setmore.com/)
 
 To carry out the study, you will need to visit 1.45 (Computer Cluster, School of Psychology). Please arrive 5 minutes before your allotted time.
 
@@ -40,4 +40,4 @@ You will be asked to complete a short survey once completed.
 
 This study has received ethical approval from the School of Psychology Ethics Board (271016/IM/216). By taking part you agree that data collected during the task will be used for research purposes.
 
-Contact Jack for any further information: ed11jb@leeds.ac.uk
+Contact Jack for any further information: [ed11jb@leeds.ac.uk](mailto:ed11jb@leeds.ac.uk?subject=PSYC1036%20Study)
