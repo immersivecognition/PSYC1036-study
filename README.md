@@ -1,8 +1,8 @@
-﻿# PSYC1036 Study
-
 Hello,
 
 Thank you for confirming your booking slot for the experimental part of your second research practical for PSYC1036.
+
+If you have yet to book your timeslot (22nd - 27th November) please visit http://vrstudy.setmore.com/
 
 To carry out the study, you will need to visit 1.45 (Computer Cluster, School of Psychology). Please arrive 5 minutes before your allotted time.
 
